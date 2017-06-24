@@ -23,6 +23,6 @@
 
 ## Server Start
 
-- 각각 WebStorm Teminal(Alt + F12) 에서 아래 명령어 실행
+- 각각 WebStorm Terminal(Alt + F12) 에서 아래 명령어 실행
 - project-client : ng serve
 - project-server : npm start
