@@ -20,3 +20,8 @@
 1. WebStorm 실행
 2. File -> New -> Project -> Angular CLI -> C:\hanbit-node\project-client (This Window)
 3. File -> New -> Project -> Node.js Express App -> C:\hanbit-node\project-server (New Window)
+
+## Server Start
+
+- project-client : ng serve
+- project-server : npm start
